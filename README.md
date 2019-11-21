@@ -1,7 +1,7 @@
-# Tutriol of the IT2600
-## Zhenxian Han
+# Digital Concept Tutorial
+#### Zhenxian Han
 
 This tutriol is about 
 
 
-[second page](second.md)
+[next page](second.md)
