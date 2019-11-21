@@ -2,7 +2,7 @@
 #### Zhenxian Han
 
 This tutorial is helping future students about Digital Concept.
-1. [Digital images](Digital images)
+1. [Digital images](Digital images.md)
 2. [Digital information]()
 3. [Digital videos]()
 4. [Digital display]()
