@@ -1,1 +1,4 @@
+# Number Systems, Conversions, Arithmetic and Binary Negative Numbers
+A computer number format is the internal representation of numeric values in digital computer and calculator hardware and software. Normally, numeric values are stored as groupings of bits, named for the number of bits that compose them. The encoding between numerical values and bit patterns is chosen for convenience of the operation of the computer; the bit format used by the computer's instruction set generally requires conversion for external use such as printing and display. Different types of processors may have different internal representations of numerical values. Different conventions are used for integer and real numbers. Most calculations are carried out with number formats that fit into a processor register, but some software systems allow representation of arbitrarily large numbers using multiple words of memory. - Reference: Computer number format
 
+[Home page](README.md)
