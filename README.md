@@ -1,7 +1,7 @@
 # Digital Concept Tutorial
 #### Zhenxian Han
 
-This tutorial is helping future students to learn Digital Concept. This tutorial give out some important information about Digital Concept.
+This tutorial is helping future students to learn Digital Concept. This tutorial gives out some important information about Digital Concept.
 1. [Digital images](Digitalimages.md)
 2. [Digital information](Digitalinformation.md)
 3. [Digital videos](Digitalvideos.md)
